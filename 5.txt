@@ -1,0 +1,7 @@
+5th week revision
+- created report on the given question
+- add all the screenshots and explained about them
+- learnt about how to trace api calls
+- learnt about malware analysis
+- learnt about unifi controller
+- learnt about how to update the packages automatically 
