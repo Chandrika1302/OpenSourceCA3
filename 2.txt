@@ -1,0 +1,6 @@
+2nd week revision
+-installed remnux system
+-installed essential packages
+-learnt how to trace api calls
+-used firefox for tracing
+-took screenshots of the outcomes
