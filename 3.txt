@@ -1,0 +1,5 @@
+3rd week revision
+- installed remnux in virtual box
+- downloaded malicious files to analyze
+- runned the command to analyze
+- took screenshots of the outputs
