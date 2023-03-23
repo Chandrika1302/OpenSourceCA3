@@ -1,0 +1,9 @@
+Initialized empty git repository
+In week 1, I have done the following things:
+- understood the question clearly
+- I have read the documentions of remnux and unifi controller
+- leart about malware analysis on executable files
+
+references:
+- https://help.ui.com/hc/en-us/categories/200320654-UniFi-Network-Archived-Documentation
+- https://docs.remnux.org/
