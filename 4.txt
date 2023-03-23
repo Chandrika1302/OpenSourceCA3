@@ -1,0 +1,5 @@
+4th week revision
+- Installed unifi controller
+- used available devices to update automatically
+- checked the status
+- added the process in the report
